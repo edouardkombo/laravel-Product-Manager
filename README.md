@@ -242,14 +242,11 @@ All other questions (branding, colour preferences, field order) are **low‑cost
 ---
 
 ## Time Spent
-**4.5 hours** – including writing code, debugging Livewire, refactoring for one‑word purity, and writing this documentation.
+**4.5 hours** including writing code, debugging Livewire, refactoring for one‑word purity, and writing this documentation.
 ---
 
 
 ## License
 MIT License – see `LICENSE` file. The design patterns (CURVED, VDD, SDT, Singularity) are original creations of Edouard Kombo, but this implementation is open‑source for educational and non‑commercial use.
 ---
-
-## Archive & Deployment
-The complete source code is provided as a zip archive. To deploy, run `./install.sh`. The system is self‑contained, constraint‑verified, and ready for adversarial review.
 
