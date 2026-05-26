@@ -1,5 +1,5 @@
 # Core – Laraval Product Managuer
-## Using Singularity: Self‑Testing, Constraint‑Verified, Framework‑Aware design pattern)
+## Using Singularity: Self‑Testing, Constraint‑Verified, Framework‑Aware design pattern
 ---
 
 ## The Original Challenge 
