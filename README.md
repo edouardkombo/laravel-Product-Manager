@@ -242,7 +242,7 @@ All other questions (branding, colour preferences, field order) are **low‑cost
 ---
 
 ## Time Spent
-**4.5 hours** including writing code, debugging Livewire, refactoring for one‑word purity, and writing this documentation.
+**7.5 hours** including writing code, debugging Livewire, refactoring for one‑word purity, and writing this documentation.
 ---
 
 
