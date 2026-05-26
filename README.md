@@ -1,4 +1,7 @@
-# Core – Laraval Product Managuer // Using Singularity: Self‑Testing, Constraint‑Verified, Framework‑Aware design pattern)
+# Core – Laraval Product Managuer
+## Using Singularity: Self‑Testing, Constraint‑Verified, Framework‑Aware design pattern)
+---
+
 ## The Original Challenge 
 A non‑technical sales team needs a dashboard to manage their product catalogue and see what’s selling.
 They require:
@@ -126,14 +129,15 @@ Example output:
 
 ## Dashboard Screenshots
 
-![Dashboard login](https://drive.google.com/file/d/1Yln1CJ8JRrdSXknocZOLbTgjbnb2hILt/view?usp=sharing)
+![Dashboard login](https://drive.google.com/uc?export=view&id=1Yln1CJ8JRrdSXknocZOLbTgjbnb2hILt)  
 *Login interface to admin.*
 
-![Products management](https://drive.google.com/file/d/1L4vdCYXoVP7772lokIxbpcB6DrGdueZc/view?usp=sharing)
+![Products management](https://drive.google.com/uc?export=view&id=1L4vdCYXoVP7772lokIxbpcB6DrGdueZc)  
 *Product list with edit/delete buttons and image thumbnails.*
 
-![Analytics](https://drive.google.com/file/d/1yh7tlr8yclhDRQmcASwAAtWha9LLbT3o/view?usp=sharing)
+![Analytics](https://drive.google.com/uc?export=view&id=1yh7tlr8yclhDRQmcASwAAtWha9LLbT3o)  
 *Total orders, items sold, revenue cards, and top 5 products bar chart.*
+
 ---
 
 ## Installation
